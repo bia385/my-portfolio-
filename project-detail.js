@@ -1,8 +1,8 @@
 const projects = {
     'portfolio-website': {
-        title: 'Personal Portfolio Website Development',
+        title: 'Pengembangan Website Portofolio Pribadi',
         category: 'Web Development',
-        description: 'Website portofolio responsif untuk memperkenalkan profil, pengalaman, keterampilan, dan proyek Robiatul Isnaini. Konten disusun dalam beberapa bagian yang mudah dinavigasi, dengan kartu proyek dan halaman detail untuk menampilkan karya secara lebih lengkap.',
+        description: 'Mengembangkan website portofolio responsif sebagai media penyajian informasi profesional yang mencakup profil, pengalaman, keterampilan, dan dokumentasi proyek. Menyusun konten ke dalam beberapa bagian dengan navigasi terstruktur serta halaman detail untuk mempermudah pengunjung mengakses informasi.',
         technologies: 'HTML • CSS • JavaScript • Responsive Web Design • Front-End Development • Git & GitHub • Information Structuring • Website Deployment',
         image: 'images/web_porto.png',
         imageAlt: 'Tangkapan layar website portofolio pribadi',
@@ -12,8 +12,20 @@ const projects = {
         highlights: [
             {
                 title: 'Projek Overview',
-                description: 'Mengembangkan website portofolio pribadi menggunakan HTML, CSS, dan JavaScript untuk menampilkan profil profesional, pengalaman, keterampilan teknis, serta proyek secara terstruktur. Mengimplementasikan desain responsif dan navigasi intuitif untuk meningkatkan aksesibilitas informasi pada berbagai perangkat. Proyek ini menunjukkan kemampuan pengembangan web, pengelolaan konten digital, dan penyajian informasi secara sistematis.'
-            }
+                description: 'Mengembangkan website portofolio pribadi menggunakan HTML, CSS, dan JavaScript sebagai media penyajian informasi profesional. Website dirancang untuk mengorganisasi profil, pengalaman, keterampilan teknis, dan dokumentasi proyek ke dalam struktur halaman yang sistematis agar informasi mudah ditemukan dan dipahami oleh pengunjung.'
+            },
+        {
+            title: 'Pengembangan Antarmuka dan Navigasi',
+            description: 'Membangun antarmuka website dengan desain responsif agar konten dapat diakses melalui berbagai ukuran perangkat. Mengimplementasikan navigasi antarbagian, kartu proyek, dan halaman detail untuk mempermudah pengguna menelusuri informasi serta melihat dokumentasi setiap proyek.'
+        },
+        {
+            title: 'Pengelolaan dan Penyajian Informasi',
+            description: 'Menyusun dan mengelompokkan konten berdasarkan kategori profil, pengalaman, keahlian, dan proyek. Mengatur informasi proyek melalui judul, deskripsi, teknologi yang digunakan, gambar, serta tautan repository agar dokumentasi karya tersaji secara konsisten dan informatif.'
+        },
+        {
+            title: 'Publikasi Website',
+            description: 'Mempublikasikan website menggunakan GitHub Pages sehingga portofolio dapat diakses secara daring melalui tautan website. Menggunakan Git dan GitHub untuk menyimpan serta mengelola kode sumber proyek, jika proses version control memang diterapkan.'
+        }
         ]
     },
     'kostfinder': {
